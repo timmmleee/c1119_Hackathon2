@@ -3,7 +3,7 @@
 Hackathon project involving the combination of different data sources into an application or game
 
 ### Requirements
-- Combine at least 4 **external** resources via AJAX requests and present their information in an application
+- Combine **at least** 3 **external** resources via AJAX requests and present their information in an application
 - Must be issue-managed via meistertask 
 
 ### Judging Criteria
